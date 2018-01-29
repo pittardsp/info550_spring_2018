@@ -8,7 +8,7 @@ and reproducible research tools. We will examine the role of Cloud Computing ser
 how they can accelerate the pace of research. Students will acquire hands on exposure and experience with machine 
 learning techniques such as clustering ad regression as well as natural language processing techniques. Students will 
 use their acquired knowledge to develop a final project application that will address some substantial problem or interest 
-emerging within ‘big data contexts”.
+ emerging within ‘big data contexts”.
 
 * [Syllabus](https://github.com/pittardsp/info550_spring_2018/wiki/Syllabus)
 
